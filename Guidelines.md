@@ -67,9 +67,18 @@ Once the application is approved and your project officially joins the Epoch Stu
 ***Failure to complete these tasks inside the given time frame may lead to your project being terminated from the Epoch Studio Organization**
 
 ## Section 2.5 - Ownership
+
+### Section 2.5.1 - Migrated Projects
 Once your project is migrated to the Epoch Studio Organization. The ownership of your project will change.
 The primary ownership of the project still not change, it will still be the person who submitted the application for this project.
 However, the project will be introduced to its secondary owners, which are the Epoch Studio Founding Members.
+
+After migrating, you as the primary owner of the project will also join the Development Team of Epoch Studio.
+You may be directed to work on other projects of the Epoch Studio Organization
+
+### Section 2.5.2 - New Projects
+The primary owner will be the person that submitted the application.
+The secondary owner will be the Epoch Studio's Founding Members
 
 ## Section 2.6 - Termination
 If a project is found to violate any of these terms listed in this file. The project will be terminated.
