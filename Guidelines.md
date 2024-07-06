@@ -1,5 +1,4 @@
-#　Project Guidelines of Epoch Studio
-
+# Project Guidelines of Epoch Studio
 All projects under the Epoch Studio Organization are subject to the following terms. 
 For any inqueries, please contact chrissch_dhil.dev on Discord.
 
