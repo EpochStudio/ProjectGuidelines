@@ -47,7 +47,7 @@ Before applying for migration, please make sure that your project is eligible. T
 
 ***Failure to comply with these terms may lead to your Application being denied.**
 
-#### Section 2.2.2
+#### Section 2.2.2 - Requirements for an NPM Package
 - the npm package must not be a github-cloned copy project
 - the npm package must achieve atleast 50 downloads per week on average as of the time of submitting the migration application.
 - the npm package must not violate any Discord's Terms of Service
