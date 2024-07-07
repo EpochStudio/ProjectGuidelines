@@ -85,3 +85,8 @@ If a project is found to violate any of these terms listed in this file. The pro
 
 If we do not act immediately on violation, this does not mean we are giving up our rights or our ability to act in the future.\
 If we don’t immediately act on any violation, given that they have not been considered or looked through, that does not mean we’re giving up any of our legal rights (such as acting in the future). If any part of these Terms and Guidelines listed below ends up being invalid or unenforceable based on a decision by any court or competent authority, the rest of these Terms will not be affected.
+
+## Section 2.7 - Effectiveness and Modification
+This Guideline is effective as of 7th July, 2024. 
+
+We reserve the right to edit this piece of guideline with or without notice.
